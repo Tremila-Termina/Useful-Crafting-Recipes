@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "## ",
+    "###",
+    "## "
+  ],
+  "result": {
+    "count": 63,
+    "id": "minecraft:iron_nugget",
+    "components": {
+	"minecraft:custom_name": "ClassificationTrash3"
+    }
+  }
+}

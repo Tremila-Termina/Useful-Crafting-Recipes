@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": "minecraft:gold_ingot",
+    "#": "minecraft:cobblestone"
+  },
+  "pattern": [
+    "###",
+    "#W#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:raw_gold"
+  }
+}

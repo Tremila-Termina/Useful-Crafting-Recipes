@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:weathered_lightning_rod"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:oxidized_lightning_rod"
+  }
+}

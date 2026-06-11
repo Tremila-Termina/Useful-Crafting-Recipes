@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:yellow_wool",
+    "W": "minecraft:gravel",
+    "X": "minecraft:clay"
+  },
+  "pattern": [
+    "XWX",
+    "W#W",
+    "XWX"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:sponge"
+  }
+}

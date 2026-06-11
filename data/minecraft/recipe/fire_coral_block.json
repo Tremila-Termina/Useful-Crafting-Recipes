@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": [
+      "minecraft:fire_coral",
+      "minecraft:fire_coral_fan"
+    ]
+  },
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:fire_coral_block"
+  }
+}
