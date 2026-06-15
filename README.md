@@ -15,7 +15,7 @@ May not be vanilla, but useful when gathering stuff.
 1. Most plants can now be duplicated with a bone meal. e.g. 1 dandelion + 1 bone meal = 2 dandelions
 2. Small / Medium / Large Amethyst Buds & Amethyst clusters can now be crafted with 1 / 2 / 3 / 4 amethyst shard(s)
 3. Barrels, Composters, and Chests can now be mass-crafted with logs.
-4. Eggs can now be transformed in the following cycle: Egg -> Brown Egg -> Blue Egg -> 
+4. Eggs can now be transformed in the following cycle: Egg -> Brown Egg -> Blue Egg -> Egg
 5. Coral Blocks can now be crafted with 4 corals / coral fans
 6. Corals and Coral Fans can now be transformed to each other.
 7. Mushroom Blocks can now be crafted with 4 corresponding mushrooms.
